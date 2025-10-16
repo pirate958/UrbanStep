@@ -5,16 +5,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-/* Header */
-/* header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: #111;
-  padding: 15px 50px;
-  color: #fff;
-} */
-
 /* Basic navbar layout */
 header {
   display: flex;
@@ -98,7 +88,7 @@ header {
 
 .logo img {
   margin: 0;
-  width: 80px; /* adjust based on your logo size */
+  width: 90px; /* adjust based on your logo size */
   height: auto;
   vertical-align: middle;
 }
